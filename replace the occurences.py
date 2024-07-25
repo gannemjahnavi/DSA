@@ -9,6 +9,6 @@ for i in range(n):
     elif c[i]!=ch1 and c[i]==ch2:
         c[i]=ch1
         
-print(c)
+print("".join(c))
         
     
